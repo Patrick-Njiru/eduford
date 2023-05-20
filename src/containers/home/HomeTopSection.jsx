@@ -1,22 +1,14 @@
 import React from 'react'
 
 import { homePage } from '../../constants/data'
-import { banner } from '../../constants/images'
 import { Button } from '../../components'
-
-const styles = {
-    height: '100vh', 
-    paddingTop:  '40vh',    
-    background: `rgba(1, 1, 16, 0.697) url(${banner}) no-repeat`,
-    backgroundSize: 'cover',
-    backgroundBlendMode: 'color-dodge'
-}
+import './home.css'
 
 const HomeTopSection = () => (
-    <div className="text-white text-center" style={styles}>
-        <h1 className='fw-bolder mb-5' > { homePage.topHeading } </h1>
-        <p className="lead w-50 mx-auto mb-5"> { homePage.introText }</p>
-        <Button about={ homePage.topButton } />
+    <div className="top-section text-white text-center">
+        <h1 className='top-section__heading fw-bolder mb-5'> { homePage.topHeading } </h1>
+        <p className="top-section__p mx-auto mb-5"> { homePage.introText }</p>
+        <Button className='top-section__button' about={ homePage.topButton } />
     </div>
 )
 

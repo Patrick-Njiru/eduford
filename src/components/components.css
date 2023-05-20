@@ -1,0 +1,31 @@
+/* Navbar */
+a { 
+    color: white;
+    text-decoration: none;
+ }
+
+ a:hover { color: red; }
+
+ a.active{ color: orangered; }
+
+.navlink a:hover { 
+    color: white;
+    border-bottom: 2px solid red; 
+}
+
+.offcanvas { background: rgba(19, 18, 18, 0.749); }
+
+
+
+/* Button */
+button { background: transparent; }
+
+button:hover { background: orangered; }
+
+@media screen and (max-width: 1060px) { button { font-size: 14px; } }
+
+@media screen and (max-width: 768px) { button { font-size: 12px; } }
+
+
+
+/*  */

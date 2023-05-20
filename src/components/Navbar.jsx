@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 import { GiHamburgerMenu } from 'react-icons/gi'
 
 import { navMenu } from '../constants/data'
-import './styles.css'
+import './components.css'
 
 const Navbar = () => (
 
@@ -20,7 +20,7 @@ const Navbar = () => (
             </ul>
             {/* Side Menu */}
             <div className='d-md-none'>
-                <button className="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight">
+                <button className="navbar-toggler border-0 bg-transparent" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight">
                     <GiHamburgerMenu className='fs-1 text-white' />
                 </button>
                 <div className="offcanvas offcanvas-end text-center w-50" id="offcanvasRight">
