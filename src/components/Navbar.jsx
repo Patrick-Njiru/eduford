@@ -7,7 +7,7 @@ import './components.css'
 
 const Navbar = () => (
 
-    <nav id='navmenu' className="navbar pt-5 fixed-top">
+    <nav id='navmenu' className="navbar pt-5 position-absolute w-100">
         <div className="container d-flex justify-content-between align-items-center">
             <img src={navMenu.logo} alt="university logo" width='150' height='50'/>
             {/* Menu */}
@@ -29,7 +29,7 @@ const Navbar = () => (
                     </div>
                     <ul className="navbar-nav side-navlinks">
                         { navMenu.navLinks.map(link => 
-                            <NavLink to={link.path} key={link.page} className='my-3' >
+                            <NavLink to={link.path} key={link.page} className='my-3 h6' >
                                 { link.page } 
                             </NavLink>
                         )}

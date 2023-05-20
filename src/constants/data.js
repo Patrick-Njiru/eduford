@@ -71,33 +71,35 @@ homePage = {
     facilities: [
         {
             title: 'World Class Library',
-            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore',
+            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.',
             pic: library
         },
         {
             title: 'Largest Play Ground',
-            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore',
+            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.',
             pic: basketball
         },
         {
             title: 'Tasty and Healthy Food',
-            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore',
+            content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.',
             pic: cafeteria
         },
     ],
     reviews: [
         {
-            userName: 'Christine Berkley',
-            pic: user1,
-            rating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarOutline />  </>
+            reviewer: 'Christine Berkley',
+            reviewerPic: user1,
+            reviewerOpinion: 'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
+            reviewerRating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarOutline />  </>
         },
         {
-            userName: 'David Byer',
-            pic: user2,
-            rating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />  </>
+            reviewer: 'David Byer',
+            reviewerPic: user2,
+            reviewerOpinion: 'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
+            reviewerRating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />  </>
         },
     ],
-    bottomHeading: 'Enroll For Our Various Online Courses Anywhere From The World',
+    bottomHeading: 'Enroll For Our Various Online Courses From  Anywhere In The World',
     contactButton: 'CONTACT US'
 },
 

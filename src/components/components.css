@@ -4,13 +4,17 @@ a {
     text-decoration: none;
  }
 
- a:hover { color: red; }
+ a:hover { 
+    color: red;
+    transition: .5s ease;
+ }
 
  a.active{ color: orangered; }
 
 .navlink a:hover { 
     color: white;
-    border-bottom: 2px solid red; 
+    border-bottom: 2px solid red;
+    transition: 1s ease;  
 }
 
 .offcanvas { background: rgba(19, 18, 18, 0.749); }
@@ -20,7 +24,10 @@ a {
 /* Button */
 button { background: transparent; }
 
-button:hover { background: orangered; }
+button:hover { 
+    background: orangered;
+    transition: .5s ease;
+ }
 
 @media screen and (max-width: 1060px) { button { font-size: 14px; } }
 
@@ -28,4 +35,52 @@ button:hover { background: orangered; }
 
 
 
-/*  */
+/* Heading */
+@media screen and (max-width:768px) { .heading h1 { font-size: 1.8rem;} }
+
+
+
+/* Campuses  */
+.campus-card:hover { background-blend-mode: color-dodge; }
+
+.campus-card h2 { 
+    height: 100%;
+    width: 100%;
+    color: transparent;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.campus-card h2:hover {
+    /* the 2 properties below are interchangeable based on preference
+        padding-bottom: 30vh;
+        align-items: center; 
+    */
+    padding-bottom: 30vh;
+    /* align-items: center; */
+    color: white;
+    transition: 0.7s ease-in-out;
+}
+
+
+
+/* Enroll */
+.enroll {
+    width: 95%;
+    height: fit-content;
+
+    background: rgba(0, 0, 0, 0.663) url(../assets/banner2.jpg) no-repeat;
+    background-size: cover;
+    background-blend-mode: color-dodge;
+}
+
+.enroll h1 { 
+    font-size: 3rem ;
+    width: 80%;
+}
+
+@media screen and (max-width: 1060px) { .enroll h1 { font-size: 2rem; } }
+
+@media screen and (max-width: 768px) { .enroll h1 { font-size: 1.5rem; } }
