@@ -180,6 +180,11 @@ contactPage = {
 
 footerSection = {
     title: 'About Us',
-    content: 'Lorem ipsum dolor sit am id, con consectetur adipiscing el aspect et, consectetur adipiscing el aspect et, consectetur adipiscing el aspect et.',
-    socialIcons: <> <FaFacebookF /> <FaTwitter /> <FaInstagram /> <FaLinkedin /> </>
+    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nami.",
+    socialIcons: [ 
+        <FaFacebookF />, 
+        <FaTwitter />, 
+        <FaInstagram />, 
+        <FaLinkedin /> 
+    ]
 }
