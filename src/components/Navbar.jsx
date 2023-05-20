@@ -10,7 +10,7 @@ const Navbar = () => (
     <nav id='navmenu' className="navbar pt-5 fixed-top">
         <div className="container d-flex justify-content-between align-items-center">
             <img src={navMenu.logo} alt="university logo" width='150' height='50'/>
-            {/* Large Screen Menu */}
+            {/* Menu */}
             <ul className='d-none d-md-block navlink'>
                 { navMenu.navLinks.map(link => 
                     <NavLink to={link.path} key={link.page} className='ms-4 h6 pb-2' >
@@ -18,12 +18,12 @@ const Navbar = () => (
                     </NavLink>
                 )}
             </ul>
-            {/* Small Screen Menu */}
+            {/* Side Menu */}
             <div className='d-md-none'>
                 <button className="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight">
                     <GiHamburgerMenu className='fs-1 text-white' />
                 </button>
-                <div className="offcanvas offcanvas-end text-center w-50 bg-dark" id="offcanvasRight">
+                <div className="offcanvas offcanvas-end text-center w-50" id="offcanvasRight">
                     <div className="offcanvas-header">
                         <button type="button" className="btn-close mb-3 bg-secondary" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                     </div>
