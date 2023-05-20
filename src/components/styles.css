@@ -1,0 +1,21 @@
+/* Button */
+
+
+/* Footer */
+
+
+/* Navbar */
+/* #navmenu a { font-size: 16px;} */
+a { 
+    text-decoration: none;
+    color: white;
+ }
+.navlink a:hover { 
+    color: white;
+    border-bottom: 0.5px solid red; 
+}
+.navlink a.active { border-bottom: 2px solid red; }
+.side-navlinks a:hover { color: white; }
+.side-navlinks a.active { color: red; }
+
+/* TopSection */

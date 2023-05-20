@@ -1,10 +1,10 @@
 import about from '../assets/about.jpg'
 import background from '../assets/background.jpg'
 import banner from '../assets/banner.png'
-import banner2 from '../assets/banner2.png'
+import banner2 from '../assets/banner2.jpg'
 import basketball from '../assets/basketball.png'
 import cafeteria from '../assets/cafeteria.png'
-import certificate from '../assets/certificate.png'
+import certificate from '../assets/certificate.jpg'
 import library from '../assets/library.png'
 import logo from '../assets/logo.png'
 import london from '../assets/london.png'
@@ -13,7 +13,7 @@ import user1 from '../assets/user1.jpg'
 import user2 from '../assets/user2.jpg'
 import washington from '../assets/washington.png'
 
-export default {
+export {
     about,
     background,
     banner,

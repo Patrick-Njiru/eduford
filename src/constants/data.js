@@ -3,10 +3,39 @@ import { FaFacebookF, FaTwitter, FaLinkedin, FaInstagram } from 'react-icons/fa'
 import { ImPhone, ImHome3,  } from 'react-icons/im'
 import { HiOutlineMail } from 'react-icons/hi'
 
-import { library, basketball, cafeteria, london, newyork, washington, user1, user2, about, certificate } from './images'
+import { library, basketball, cafeteria, london, newyork, washington, user1, user2, about, certificate, logo } from './images'
 
 
 export const 
+
+navMenu = {
+    logo: logo,
+    logoText: 'Eduford',
+    navLinks: [
+        {
+            page: "HOME",
+            path: ''
+        },
+        {
+            page: "ABOUT",
+            path: '/about-us'
+        },
+        {
+            page: "COURSE",
+            path: '/courses'
+        },
+        {
+            page: "BLOGS",
+            path: '/blogs'
+        },
+        {
+            page: "CONTACT",
+            path: 'contact'
+        },
+    ],
+},
+
+
 homePage = {
     topHeading: "World's Biggest University",
     introText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -91,7 +120,7 @@ coursesPage = {
 
 
 blogsPage = {
-    topheading: 'Our Certificate & Online Programs For 2023',
+    topHeading: 'Our Certificate & Online Programs For 2023',
     pic: certificate,
     postCategories: [
         {
