@@ -187,19 +187,36 @@ blogsPageData = {
 
 contactPageData = {
     topHeading: 'Contact Us',
-    address: {
-        icon: <ImHome3 />,
-        location: 'Xyz Road, Abc Building \n Bangalore, Kamataka, IN'
-    },
-    contact: {
-        icon: <ImPhone />,
-        phone: '+1 0123456789 \n Monday to Saturday 10 Am to 6 Pm'
-    },
-    emailAddress: {
-        icon: <HiOutlineMail />,
-        email: 'info@example.com \n Email us your query'
-    },
     button: 'Send Message',
+    contactDetails: [
+        {
+            icon: <ImHome3 />,
+            info: 
+                <>  
+                    <span className='contact__span fw-bold'> Xyz Road, Abc Building </span>
+                    <br/> 
+                    Bangalore, Kamataka, IN 
+                </>
+        },
+        {
+            icon: <ImPhone />,
+            info: 
+                <> 
+                    <span className='contact__span fw-bold'> +1 0123456789 </span> 
+                    <br/> 
+                    Monday - Saturday, &nbsp; 10 AM - 6 PM
+                </>
+        },
+        {
+            icon: <HiOutlineMail />,
+            info: 
+                <>  
+                <span className='contact__span fw-bold'> info@example.com </span> 
+                <br/> 
+                Email us your query 
+            </>
+        },
+    ],
 },
 
 

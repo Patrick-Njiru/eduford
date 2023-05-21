@@ -1,13 +1,10 @@
-/* About */
-.about__img { height: 550px; }
-@media screen and (max-width: 1200px) { 
-    .about__img { height: 500px; }
-    .about__heading { font-size: 2rem;}
-}
+/* Contact */
+@media screen and (min-width: 1700px) { .contact__span { font-size: 22px; } }
 
-@media screen and (max-width: 998px) { .about__img { height: 450px; } }
+@media screen and (min-width: 1200px) { .contact__span { font-size: 20px; } }
 
-@media screen and (max-width: 768px) { 
-    .about__heading { font-size: 1.8rem;}
-    .about__img { height: 50vh;} 
-}
+@media screen and (max-width: 1060px) { .contact__span { font-size: 18px; } }
+
+@media screen and (max-width: 768px) { .contact__span { font-size: 16px; } }
+
+@media screen and (max-width: 620px) { .contact__span { font-size: 14px; } }
