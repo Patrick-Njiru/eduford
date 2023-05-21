@@ -4,15 +4,15 @@ import { background } from '../constants/images'
 
 const styles= {
     height: '53vh',
-    paddingTop:'26.5vh',
+    paddingTop:'24vh',
     marginBottom: '10vh',
 
-    background: `rgba(1, 1, 16, 0.497) url(${background}) no-repeat`,
+    background: `rgba(0, 0, 0, 0.6) url(${background}) no-repeat`,
     backgroundSize: 'cover',
     backgroundBlendMode: 'color-dodge',
     backgroundPosition: 'center',
 }
 
-const TopSection = ({ topHeading }) => <div className='text-center text-white h1 fw-bolder' style={styles}> { topHeading } </div>
+const TopSection = ({ topHeading }) => <h1 className='text-center text-white fw-bolder' style={styles}> { topHeading } </h1>
 
 export default TopSection 

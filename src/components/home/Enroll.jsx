@@ -2,15 +2,15 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 import { homePageData } from '../../constants/data'
-import Button from './Button'
-import './home.css'
+import Button from '../Button'
 
 const Enroll = () => (
     <div className="enroll row my-5 py-5 rounded mx-auto">
         <div className="text-center my-5 text-white col-11 mx-auto">
-            <h1 className=' my-5 mx-auto text-white'> { homePageData.bottomHeading } </h1>
+            <h2 className='enroll-heading my-5 mx-auto text-white'> { homePageData.bottomHeading } </h2>
+
             <NavLink to='/contact'>
-                <Button about={ homePageData.contactButton } />
+                <Button purspose={homePageData.contactButton} classes='text-white border-white' />
             </NavLink>
         </div>
     </div>

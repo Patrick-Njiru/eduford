@@ -165,7 +165,7 @@ blogsPageData = {
             totalPosts: 13
         },
     ],
-    content: 
+    blog: 
         <>
             <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni. 
@@ -187,34 +187,19 @@ blogsPageData = {
 
 contactPageData = {
     topHeading: 'Contact Us',
-    button: 'Send Message',
+    button: 'SEND MESSAGE',
     contactDetails: [
         {
             icon: <ImHome3 />,
-            info: 
-                <>  
-                    <span className='contact__span fw-bold'> Xyz Road, Abc Building </span>
-                    <br/> 
-                    Bangalore, Kamataka, IN 
-                </>
+            info: <>  Xyz Road, Abc Building <br/> Bangalore, Kamataka, IN </>
         },
         {
             icon: <ImPhone />,
-            info: 
-                <> 
-                    <span className='contact__span fw-bold'> +1 0123456789 </span> 
-                    <br/> 
-                    Monday - Saturday, &nbsp; 10 AM - 6 PM
-                </>
+            info: <> 1 0123456789 <br/> Monday - Saturday, &nbsp; 10 am - 6 pm </>
         },
         {
             icon: <HiOutlineMail />,
-            info: 
-                <>  
-                <span className='contact__span fw-bold'> info@example.com </span> 
-                <br/> 
-                Email us your query 
-            </>
+            info: <>  info@example.com <br/> Email us your query </>
         },
     ],
 },
