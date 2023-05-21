@@ -13,4 +13,4 @@ Eduford is a communication portal between college students and Eduford College. 
 ### :link: <a href='#'> Eduford </a>
 
 ## Author
-### by Patrick Njiru
+### Patrick Njiru
