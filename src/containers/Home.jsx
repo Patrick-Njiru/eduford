@@ -1,8 +1,6 @@
 import React from 'react'
 
-import HomeTopSection from './HomeTopSection'
-import { Campuses, CourseCards, Enroll, Facilities, Heading, Reviews } from '../../components'
-import './home.css'
+import { Campuses, CourseCards, Enroll, Facilities, Heading, HomeTopSection, Reviews } from '../components'
 
 
 const Home = () => (

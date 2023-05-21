@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { homePageData } from '../constants/data'
-import './components.css'
+import { homePageData } from '../../constants/data'
+import './home.css'
 
 const Campuses = () => (
     <div className="row pt-2">

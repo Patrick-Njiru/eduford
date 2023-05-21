@@ -1,7 +1,6 @@
 import React from 'react'
 
 import { homePageData } from '../constants/data'
-import './components.css'
 
 const CourseCards = () => (
     <div className="row">

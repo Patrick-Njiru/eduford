@@ -45,51 +45,6 @@ button:hover {
 
 
 
-/* Campuses  */
-.campus-card:hover { background-blend-mode: color-dodge; }
-
-.campus-card h2 { 
-    height: 100%;
-    width: 100%;
-    color: transparent;
-
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-
-    -webkit-transition: 0.7s ease-in; 
-    -moz-transition: 0.7s ease-in;
-    -o-transition: 0.7s ease-in;
-    transition: 0.7s ease-in;
-}
-
-.campus-card h2:hover {
-    /* the 2 properties below are interchangeable based on preference
-        padding-bottom: 30vh;
-        align-items: center; 
-    */
-    padding-bottom: 30vh;
-    /* align-items: center; */
-    color: #fff;
-}
 
 
 
-/* Enroll */
-.enroll {
-    width: 95%;
-    height: fit-content;
-
-    background: rgba(0, 0, 0, 0.663) url(../assets/banner2.jpg) no-repeat;
-    background-size: cover;
-    background-blend-mode: color-burn;
-}
-
-.enroll h1 { 
-    font-size: 3rem ;
-    width: 80%;
-}
-
-@media screen and (max-width: 1060px) { .enroll h1 { font-size: 2rem; } }
-
-@media screen and (max-width: 768px) { .enroll h1 { font-size: 1.5rem; } }
