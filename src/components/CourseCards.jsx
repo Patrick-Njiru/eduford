@@ -8,7 +8,7 @@ const CourseCards = () => (
         { homePageData.courses.map( course => 
             <div 
                 className='card shadow text-center col-10 col-sm-5 col-md-3 mx-auto mb-5 pt-3'
-                style={{ background: 'rgba(255, 192, 203, 0.435)' }}
+                style={{ background: 'rgba(255, 192, 203, 0.335)' }}
                 key={course.title}
             >
                 <h4 className='mb-4'> { course.title } </h4>
