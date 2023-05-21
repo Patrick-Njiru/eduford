@@ -116,6 +116,7 @@ aboutPageData = {
 coursesPageData = {
     topHeading: 'Our Courses',
     secondHeading: 'Courses We Offer',
+    thirdHeading: 'Our Facilities',
     courses: homePageData.courses,
     facilities: homePageData.facilities
 },

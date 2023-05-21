@@ -9,25 +9,13 @@ const Home = () => (
     <div>
         <HomeTopSection />
         <div className="container">
-            <Heading 
-                title='Courses We Offer' 
-                content='Lorem, ipsum dolor sit amet consectetur adipisicing elit.' 
-            />
+            <Heading title='Courses We Offer' />
             <CourseCards />
-            <Heading 
-                title='Our Global Campus' 
-                content='Lorem, ipsum dolor sit amet consectetur adipisicing elit.' 
-            />
+            <Heading title='Our Global Campus' />
             <Campuses />
-            <Heading 
-                title='Our Facilities' 
-                content='Lorem, ipsum dolor sit amet consectetur adipisicing elit.' 
-            />
+            <Heading title='Our Facilities' />
             <Facilities />
-            <Heading 
-                title='What Our Students Say' 
-                content='Lorem, ipsum dolor sit amet consectetur adipisicing elit.' 
-            />
+            <Heading title='What Our Students Say' />
             <Reviews />
             <Enroll />
         </div>
