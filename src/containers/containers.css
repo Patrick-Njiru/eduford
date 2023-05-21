@@ -1,0 +1,13 @@
+/* About */
+.about__img { height: 550px; }
+@media screen and (max-width: 1200px) { 
+    .about__img { height: 500px; }
+    .about__heading { font-size: 2rem;}
+}
+
+@media screen and (max-width: 998px) { .about__img { height: 450px; } }
+
+@media screen and (max-width: 768px) { 
+    .about__heading { font-size: 1.8rem;}
+    .about__img { height: 50vh;} 
+}

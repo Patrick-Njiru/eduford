@@ -1,33 +1,38 @@
 /* Navbar */
 a { 
-    color: white;
+    color: #fff;
     text-decoration: none;
+
+    -webkit-transition: 0.5s ease; 
+    -moz-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    transition: 0.5s ease;
  }
 
- a:hover { 
-    color: red;
-    transition: .5s ease;
- }
+ a:hover { color: #a09c9c; }
 
- a.active{ color: orangered; }
-
-.navlink a:hover { 
-    color: white;
-    border-bottom: 2px solid red;
-    transition: 1s ease;  
-}
+ a.active{ color: #ff4500; }
 
 .offcanvas { background: rgba(19, 18, 18, 0.749); }
 
 
 
 /* Button */
-button { background: transparent; }
+button { 
+    background: transparent; 
+    color: #ff0000b3;
+    border: 1px solid #ff0000b3;
+
+    -webkit-transition: 0.5s linear; 
+    -moz-transition: 0.5s linear;
+    -o-transition: 0.5s linear;
+    transition: 0.5s linear;
+}
 
 button:hover { 
-    background: orangered;
-    transition: .5s ease;
- }
+    color: #fff;
+    background-color: #ff4500;
+}
 
 @media screen and (max-width: 1060px) { button { font-size: 14px; } }
 
@@ -51,6 +56,11 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: flex-end;
+
+    -webkit-transition: 0.7s ease-in; 
+    -moz-transition: 0.7s ease-in;
+    -o-transition: 0.7s ease-in;
+    transition: 0.7s ease-in;
 }
 
 .campus-card h2:hover {
@@ -60,8 +70,7 @@ button:hover {
     */
     padding-bottom: 30vh;
     /* align-items: center; */
-    color: white;
-    transition: 0.7s ease-in-out;
+    color: #fff;
 }
 
 
@@ -73,7 +82,7 @@ button:hover {
 
     background: rgba(0, 0, 0, 0.663) url(../assets/banner2.jpg) no-repeat;
     background-size: cover;
-    background-blend-mode: color-dodge;
+    background-blend-mode: color-burn;
 }
 
 .enroll h1 { 

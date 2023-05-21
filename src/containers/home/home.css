@@ -22,3 +22,20 @@
     .top-section__heading { font-size: 2rem; }
     .top-section__p { width: 75vw}
 }
+
+
+/* HomeButton */
+button { 
+    background: transparent;
+
+    -webkit-transition: 0.5s linear; 
+    -moz-transition: 0.5s linear;
+    -o-transition: 0.5s linear;
+    transition: 0.5s linear;
+ }
+ 
+button:hover { background: orangered; }
+
+@media screen and (max-width: 1060px) { button { font-size: 14px; } }
+
+@media screen and (max-width: 768px) { button { font-size: 12px; } }
