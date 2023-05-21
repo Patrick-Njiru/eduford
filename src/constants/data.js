@@ -21,7 +21,7 @@ navMenuData = {
             path: '/about-us'
         },
         {
-            page: "COURSE",
+            page: "COURSES",
             path: '/courses'
         },
         {
@@ -36,6 +36,7 @@ navMenuData = {
 },
 
 
+
 homePageData = {
     topHeading: "World's Biggest University",
     introText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -43,15 +44,18 @@ homePageData = {
     courses: [
         {
             title: 'Intermediate',
-            content: "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
+            content: 
+                "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
         },
         {
             title: 'Degree',
-            content: "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
+            content: 
+                "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
         },
         {
             title: 'Post Graduation',
-            content: "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
+            content: 
+                "lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc. Lorem ipsum dolor sit amet, consect et dolor et dolor"
         },
     ],
     campuses: [
@@ -89,13 +93,15 @@ homePageData = {
         {
             reviewer: 'Christine Berkley',
             reviewerPic: user1,
-            reviewerOpinion: 'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
+            reviewerOpinion: 
+                'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
             reviewerRating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarOutline />  </>
         },
         {
             reviewer: 'David Byer',
             reviewerPic: user2,
-            reviewerOpinion: 'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
+            reviewerOpinion: 
+                'Lorem ipsum dolor sit amet, consectetur adip incididunt ut labore et dolore mag nunc dolor sit amet animi velit sapiente debitis quas quasi.',
             reviewerRating: <> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStar /> <IoIosStarHalf />  </>
         },
     ],
@@ -104,13 +110,16 @@ homePageData = {
 },
 
 
+
 aboutPageData = {
     topHeading: 'About Us',
     secondHeading: "We are the world's largest university",
-    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni.",
+    content: 
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni.",
     button: 'EXPLORE NOW',
     pic: about
 },
+
 
 
 coursesPageData = {
@@ -120,6 +129,7 @@ coursesPageData = {
     courses: homePageData.courses,
     facilities: homePageData.facilities
 },
+
 
 
 blogsPageData = {
@@ -155,10 +165,24 @@ blogsPageData = {
             totalPosts: 13
         },
     ],
-    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni. \n Mollitia repellendus consectetur dolor, fugit facere recusandae facilis beatae inventore quas? Repudiandae cumque explicabo natus pariatur similique voluptates blanditiis consectetur illum consequuntur, repellendus enim modi libero temporibus dolorum, dolorem qui reprehenderit sequi molestiae expedita, iure quasi dolor tenetur quaerat? Dolor quo provident aut harum alias nihil? Nisi quia sed architecto? Nam porro praesentium natus consequuntur reprehenderit eaque, minima rem facere numquam! Illum, et alias. \n Cupiditate hic beatae modi ab rerum voluptas nisi sequi ea provident. Laudantium qui sapiente quidem aspernatur doloribus blanditiis rem harum explicabo ducimus, nostrum, recusandae, voluptatem dicta. Quis vitae quos officiis quidem dolore fugit voluptates cupiditate laudantium, suscipit ipsa. Numquam harum ex soluta voluptates consectetur maxime? Ullam, officia, dolore temporibus doloremque eius veritatis delectus velit est optio sed veniam, quis facilis porro. \n At quaerat adipisci in officiis quidem modi ut ipsum dolor. Dignissimos vel numquam provident doloremque quas, quod iusto accusamus molestias vitae quibusdam similique consequuntur omnis asperiores sint minus officia magnam autem, harum laboriosam enim dolorem suscipit!",
-    
+    content: 
+        <>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni. 
+            </p> 
+            <p>
+                Mollitia repellendus consectetur dolor, fugit facere recusandae facilis beatae inventore quas? Repudiandae cumque explicabo natus pariatur similique voluptates blanditiis consectetur illum consequuntur, repellendus enim modi libero temporibus dolorum, dolorem qui reprehenderit sequi molestiae expedita, iure quasi dolor tenetur quaerat? Dolor quo provident aut harum alias nihil? Nisi quia sed architecto? Nam porro praesentium natus consequuntur reprehenderit eaque, minima rem facere numquam! Illum, et alias. 
+            </p>
+            <p>
+                Cupiditate hic beatae modi ab rerum voluptas nisi sequi ea provident. Laudantium qui sapiente quidem aspernatur doloribus blanditiis rem harum explicabo ducimus, nostrum, recusandae, voluptatem dicta. Quis vitae quos officiis quidem dolore fugit voluptates cupiditate laudantium, suscipit ipsa. Numquam harum ex soluta voluptates consectetur maxime? Ullam, officia, dolore temporibus doloremque eius veritatis delectus velit est optio sed veniam, quis facilis porro. 
+            </p>
+            <p>
+                At quaerat adipisci in officiis quidem modi ut ipsum dolor. Dignissimos vel numquam provident doloremque quas, quod iusto accusamus molestias vitae quibusdam similique consequuntur omnis asperiores sint minus officia magnam autem, harum laboriosam enim dolorem suscipit!"
+            </p>
+        </>,
     button: 'POST COMMENT',
 },
+
 
 
 contactPageData = {
@@ -179,9 +203,11 @@ contactPageData = {
 },
 
 
+
 footerSectionData = {
     title: 'About Us',
-    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nami.",
+    content: 
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nami.",
     socialIcons: [ 
         <FaFacebookF />, 
         <FaTwitter />, 

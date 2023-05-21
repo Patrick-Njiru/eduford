@@ -2,7 +2,6 @@ import React from 'react'
 
 import { Button, TopSection } from '../components'
 import { aboutPageData } from '../constants/data'
-import { about } from '../constants/images'
 import './containers.css'
 
 const About = () => (
@@ -15,7 +14,7 @@ const About = () => (
                     <p className='text-secondary mb-4'> { aboutPageData.content } </p>
                     <Button about={aboutPageData.button} />
                 </div>
-                <img src={about} alt="about us" className='about__img col-11 col-md-6 pt-5 pb-3 mt-5 mx-auto' />
+                <img src={aboutPageData.pic} alt="about us" className='about__img col-11 col-md-6 pt-5 pb-3 mt-5 mx-auto' />
             </div>
         </div>
     </div>

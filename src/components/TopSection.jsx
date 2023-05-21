@@ -1,11 +1,12 @@
 import React from 'react'
 
 import { background } from '../constants/images'
-import './components.css'
 
 const styles= {
-    height: '65vh',
-    paddingTop:'32.5vh',
+    height: '53vh',
+    paddingTop:'26.5vh',
+    marginBottom: '10vh',
+
     background: `rgba(1, 1, 16, 0.497) url(${background}) no-repeat`,
     backgroundSize: 'cover',
     backgroundBlendMode: 'color-dodge',
