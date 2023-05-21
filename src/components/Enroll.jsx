@@ -1,13 +1,17 @@
 import React from 'react'
-import { homePage } from '../constants/data'
-import Button from './Button'
+import { NavLink } from 'react-router-dom'
+
+import { homePageData } from '../constants/data'
+import HomeButton from '../containers/home/HomeButton'
 import './components.css'
 
 const Enroll = () => (
-    <div className="row enroll my-5 py-5 rounded mx-auto">
+    <div className="enroll row my-5 py-5 rounded mx-auto">
         <div className="text-center my-5 text-white col-11 mx-auto">
-            <h1 className=' my-5 mx-auto'> { homePage.bottomHeading } </h1>
-            <Button about={ homePage.contactButton } />
+            <h1 className=' my-5 mx-auto'> { homePageData.bottomHeading } </h1>
+            <NavLink to='/contact'>
+                <HomeButton about={ homePageData.contactButton } />
+            </NavLink>
         </div>
     </div>
 )

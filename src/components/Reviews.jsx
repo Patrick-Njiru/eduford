@@ -1,9 +1,9 @@
 import React from 'react'
-import { homePage } from '../constants/data'
+import { homePageData } from '../constants/data'
 
 const Reviews = () => (
     <div className='row'>
-        { homePage.reviews.map(review => 
+        { homePageData.reviews.map(review => 
             <div 
                 className='card border-0 shadow col-10 col-sm-5 mx-auto mb-5 py-4 pe-5'
                 style={{ background: 'rgba(255, 192, 203, 0.435)' }}

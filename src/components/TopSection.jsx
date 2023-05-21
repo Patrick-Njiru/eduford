@@ -5,7 +5,7 @@ import './components.css'
 
 const styles= {
     height: '100vh',
-    paddingTop:  '40vh',
+    paddingTop:  '45vh',
     background: `rgba(1, 1, 16, 0.497) url(${background}) no-repeat`,
     backgroundSize: 'cover',
     backgroundBlendMode: 'color-dodge',    

@@ -8,7 +8,7 @@ import { library, basketball, cafeteria, london, newyork, washington, user1, use
 
 export const 
 
-navMenu = {
+navMenuData = {
     logo: logo,
     logoText: 'Eduford',
     navLinks: [
@@ -36,7 +36,7 @@ navMenu = {
 },
 
 
-homePage = {
+homePageData = {
     topHeading: "World's Biggest University",
     introText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     topButton: 'VISIT US TO KNOW MORE',
@@ -104,24 +104,24 @@ homePage = {
 },
 
 
-aboutPage = {
+aboutPageData = {
     topHeading: 'About Us',
     secondHeading: "We are the world's largest university",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati recusandae perferendis eius, animi velit sapiente debitis quas quasi perspiciatis beatae id voluptatum omnis dolores ab impedit molestias vero nisi tempore.",
+    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nam inventore animi laboriosam veniam possimus obcaecati debitis magni.",
     button: 'EXPLORE NOW',
     pic: about
 },
 
 
-coursesPage = {
+coursesPageData = {
     topHeading: 'Our Courses',
     secondHeading: 'Courses We Offer',
-    courses: homePage.courses,
-    facilities: homePage.facilities
+    courses: homePageData.courses,
+    facilities: homePageData.facilities
 },
 
 
-blogsPage = {
+blogsPageData = {
     topHeading: 'Our Certificate & Online Programs For 2023',
     pic: certificate,
     postCategories: [
@@ -160,7 +160,7 @@ blogsPage = {
 },
 
 
-contactPage = {
+contactPageData = {
     topHeading: 'Contact Us',
     address: {
         icon: <ImHome3 />,
@@ -178,7 +178,7 @@ contactPage = {
 },
 
 
-footerSection = {
+footerSectionData = {
     title: 'About Us',
     content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam, exercitationem laborum. Nihil, tenetur repellat? Pariatur sit qui distinctio sint, illum cumque velit hic provident dolorum doloremque minus vitae totam incidunt nami.",
     socialIcons: [ 

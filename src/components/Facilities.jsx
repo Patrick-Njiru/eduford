@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { homePage } from '../constants/data'
+import { homePageData } from '../constants/data'
 
 const Facilities = () => (
     <div className='row'>
-        { homePage.facilities.map( facility => 
+        { homePageData.facilities.map( facility => 
             <div 
                 className='card border-0 col-10 col-sm-5 col-md-3 mx-auto mb-5 mt-3'
                 key={facility.title} 

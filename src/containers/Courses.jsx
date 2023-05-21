@@ -1,10 +1,10 @@
 import React from 'react'
 import { TopSection } from '../components'
-import { coursesPage } from '../constants/data'
+import { coursesPageData } from '../constants/data'
 
 const Courses = () => (
     <div>
-        <TopSection topHeading={coursesPage.topHeading} />
+        <TopSection topHeading={coursesPageData.topHeading} />
     </div>
 )
 
