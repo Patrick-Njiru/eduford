@@ -19,14 +19,14 @@ Eduford is a communication portal between college students and Eduford Universit
 <h2 align='center'> View on Small Screens </h2 >
 
 <div align='center'>
-    <img src="https://i.ibb.co/mDS0pHX/Screenshot-from-2023-05-22-11-56-11.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/XWF2CDP/Screenshot-from-2023-05-22-11-56-29.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/WK4gQG1/Screenshot-from-2023-05-22-11-57-13.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/DKPNcpH/Screenshot-from-2023-05-22-11-57-23.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/Wv6f8k7/Screenshot-from-2023-05-22-11-57-44.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
-    <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0" width='20%' height='800px' style="margin: 5% 3%">
+    <img src="https://i.ibb.co/mDS0pHX/Screenshot-from-2023-05-22-11-56-11.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/XWF2CDP/Screenshot-from-2023-05-22-11-56-29.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/WK4gQG1/Screenshot-from-2023-05-22-11-57-13.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/DKPNcpH/Screenshot-from-2023-05-22-11-57-23.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/Wv6f8k7/Screenshot-from-2023-05-22-11-57-44.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0" style="margin-top: 20px">
+    <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0" style="margin-top: 20px">
 </div>
 
 
