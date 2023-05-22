@@ -3,13 +3,13 @@
 ## Description
 Eduford is a communication portal between college students and Eduford University. It provides all the necessary information for any student who might be interested in pursuing a course there, be it online or in person. This is a Front End website that I created individually to showcase my skills as well as apply new better coding practices that I learned recently.
 
-<img src="https://i.ibb.co/DzbLLKv/Screenshot-from-2023-05-22-02-57-39.png" width='45%' style="margin: 0 4% 60px 0" />
-<img src="https://i.ibb.co/w0Zkm7M/Screenshot-from-2023-05-22-02-57-49.png" width='45%' style="margin-bottom: 60px" />
-<img src="https://i.ibb.co/fCydtLj/Screenshot-from-2023-05-22-03-06-16.png" width='45%' style="margin: 0 4% 60px 0" />
-<img src="https://i.ibb.co/5BXrH31/Screenshot-from-2023-05-22-02-59-46.png" width='45%' style="margin-bottom: 60px" />
-<img src="https://i.ibb.co/QYG0Zpb/Screenshot-from-2023-05-22-02-59-20.png" width='45%'  style="margin: 0 4% 60px 0" />
-<img src="https://i.ibb.co/5RXJP0d/Screenshot-from-2023-05-22-02-58-30.png" width='45%' style="margin-bottom: 60px" />
-<img src="https://i.ibb.co/fSB1rzh/Screenshot-from-2023-05-22-02-58-20.png" width='45%'  style="margin: 0 4% 60px 0" />
+<img src="https://i.ibb.co/DzbLLKv/Screenshot-from-2023-05-22-02-57-39.png" width='55%' height='70%' style='margin: 20px 20% '/>
+<img src="https://i.ibb.co/w0Zkm7M/Screenshot-from-2023-05-22-02-57-49.png" width='55%' height='70%' style='margin: 20px 20% '/>
+<img src="https://i.ibb.co/fCydtLj/Screenshot-from-2023-05-22-03-06-16.png" width='55%' height='70%' style='margin: 20px 20% '/>
+<img src="https://i.ibb.co/5BXrH31/Screenshot-from-2023-05-22-02-59-46.png" width='55%' height='70%' style='margin: 20px 20% '/>
+<img src="https://i.ibb.co/QYG0Zpb/Screenshot-from-2023-05-22-02-59-20.png" width='55%' height='70%' style='margin: 20px 20% ' />
+<img src="https://i.ibb.co/5RXJP0d/Screenshot-from-2023-05-22-02-58-30.png" width='55%' height='70%' style='margin: 20px 20% '/>
+<img src="https://i.ibb.co/fSB1rzh/Screenshot-from-2023-05-22-02-58-20.png" width='55%' height='70%' style='margin: 20px 20% ' />
 
 ## Languages Used
 
