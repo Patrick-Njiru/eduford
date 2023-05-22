@@ -20,7 +20,7 @@ Eduford is a communication portal between college students and Eduford Universit
 3. HTML
 
 ## Live Link
-### :link: <a href='#'> Eduford </a>
+### :link: <a href='https://edu4d.netlify.app'> Eduford </a>
 
 ## Author
 ### Patrick Njiru
