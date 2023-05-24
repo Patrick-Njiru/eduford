@@ -32,7 +32,7 @@ Eduford is a communication portal between college students and Eduford Universit
 
 ## Technologies
 
-1. JavaScript (React Framework)
+1. React
 2. CSS
 3. HTML
 
