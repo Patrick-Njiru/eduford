@@ -6,28 +6,28 @@ Eduford is a communication portal between college students and Eduford Universit
 <br><br>
 <h2 align='center'> View on Large Screens </h2>
 
-<!-- <div align='center'>
-    <img src="https://i.ibb.co/xXs335B/Screenshot-from-2023-05-22-02-57-39.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/xCKkTYJ/Screenshot-from-2023-05-22-02-57-49.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/7GZtVLs/Screenshot-from-2023-05-22-03-06-16.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/m6r9WKR/Screenshot-from-2023-05-22-02-59-46.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/wp1tTB0/Screenshot-from-2023-05-22-02-59-20.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/QK7x4gZ/Screenshot-from-2023-05-22-02-58-30.png" border="0" style="margin-bottom: 50px">
-    <img src="https://i.ibb.co/rtT75RC/Screenshot-from-2023-05-22-02-58-20.png" border="0" style="margin-bottom: 50px">
+<div>
+    <img src="https://i.ibb.co/xXs335B/Screenshot-from-2023-05-22-02-57-39.png" border="0">
+    <img src="https://i.ibb.co/ygZstpP/Screenshot-from-2023-05-25-11-35-28.png" border="0">
+    <img src="https://i.ibb.co/7GZtVLs/Screenshot-from-2023-05-22-03-06-16.png" border="0">
+    <img src="https://i.ibb.co/MPZkvkW/Screenshot-from-2023-05-25-11-29-47.png" border="0">
+    <img src="https://i.ibb.co/wp1tTB0/Screenshot-from-2023-05-22-02-59-20.png" border="0">
+    <img src="https://i.ibb.co/QK7x4gZ/Screenshot-from-2023-05-22-02-58-30.png" border="0">
+    <img src="https://i.ibb.co/rtT75RC/Screenshot-from-2023-05-22-02-58-20.png" border="0">
 </div>
 <br><br>
 <h2 align='center'> View on Small Screens </h2 >
 
 <div align='center'>
-    <img src="https://i.ibb.co/mDS0pHX/Screenshot-from-2023-05-22-11-56-11.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/XWF2CDP/Screenshot-from-2023-05-22-11-56-29.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/WK4gQG1/Screenshot-from-2023-05-22-11-57-13.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/DKPNcpH/Screenshot-from-2023-05-22-11-57-23.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/Wv6f8k7/Screenshot-from-2023-05-22-11-57-44.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0" style="margin-top: 20px">
-    <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0" style="margin-top: 20px">
-</div> -->
+    <img src="https://i.ibb.co/mDS0pHX/Screenshot-from-2023-05-22-11-56-11.png" border="0">
+    <img src="https://i.ibb.co/XWF2CDP/Screenshot-from-2023-05-22-11-56-29.png" border="0">
+    <img src="https://i.ibb.co/WK4gQG1/Screenshot-from-2023-05-22-11-57-13.png" border="0">
+    <img src="https://i.ibb.co/DKPNcpH/Screenshot-from-2023-05-22-11-57-23.png" border="0">
+    <img src="https://i.ibb.co/Wv6f8k7/Screenshot-from-2023-05-22-11-57-44.png" border="0">
+    <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0">
+    <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0">
+    <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0">
+</div>
 
 
 ## Technologies
@@ -40,7 +40,7 @@ Eduford is a communication portal between college students and Eduford Universit
 🔗 <a href='https://edu4d.netlify.app'> Eduford </a>
 
 ## Author
-### Patrick Njiru - <a href='https://www.linkedin.com/in/patrick-njiru-7569241ba'> LinkedIn</a>
+Patrick Njiru - <a href='https://www.linkedin.com/in/patrick-njiru-7569241ba'> LinkedIn</a>
 
 ## License and Copyright
 
