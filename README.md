@@ -3,9 +3,6 @@
 ## Description
 Eduford is a communication portal between college students and Eduford University. It provides all the necessary information for any student who might be interested in pursuing a course there, be it online or in person. This is a Front End website that I created individually to showcase my skills as well as apply new better coding practices that I learned recently. It is mobile responsive.
 
-<br><br>
-<h2 align='center'> View on Large Screens </h2>
-
 <div>
     <img src="https://i.ibb.co/xXs335B/Screenshot-from-2023-05-22-02-57-39.png" border="0">
     <img src="https://i.ibb.co/ygZstpP/Screenshot-from-2023-05-25-11-35-28.png" border="0">
@@ -16,19 +13,6 @@ Eduford is a communication portal between college students and Eduford Universit
     <img src="https://i.ibb.co/rtT75RC/Screenshot-from-2023-05-22-02-58-20.png" border="0">
 </div>
 <br><br>
-<h2 align='center'> View on Small Screens </h2 >
-
-<div align='center'>
-    <img src="https://i.ibb.co/mDS0pHX/Screenshot-from-2023-05-22-11-56-11.png" border="0">
-    <img src="https://i.ibb.co/XWF2CDP/Screenshot-from-2023-05-22-11-56-29.png" border="0">
-    <img src="https://i.ibb.co/WK4gQG1/Screenshot-from-2023-05-22-11-57-13.png" border="0">
-    <img src="https://i.ibb.co/DKPNcpH/Screenshot-from-2023-05-22-11-57-23.png" border="0">
-    <img src="https://i.ibb.co/Wv6f8k7/Screenshot-from-2023-05-22-11-57-44.png" border="0">
-    <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0">
-    <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0">
-    <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0">
-</div>
-
 
 ## Technologies
 
