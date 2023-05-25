@@ -12,7 +12,7 @@ const Reviews = () => (
                     className='card border-0 shadow col-10 col-sm-5 mx-auto mb-5 py-4 pe-5'
                 >
                     <div className="d-flex">
-                        <img src={review.reviewerPic} alt={review.reviewer} width='55' height='55' className='me-5 rounded-5' />
+                        <img src={review.reviewerPic} alt={review.reviewer} width='55' height='55' className='me-5 rounded-circle' />
 
                         <div>
                             <p className='text-secondary'> { review.reviewerOpinion } </p>
