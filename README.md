@@ -6,7 +6,7 @@ Eduford is a communication portal between college students and Eduford Universit
 <br><br>
 <h2 align='center'> View on Large Screens </h2>
 
-<div align='center'>
+<!-- <div align='center'>
     <img src="https://i.ibb.co/xXs335B/Screenshot-from-2023-05-22-02-57-39.png" border="0" style="margin-bottom: 50px">
     <img src="https://i.ibb.co/xCKkTYJ/Screenshot-from-2023-05-22-02-57-49.png" border="0" style="margin-bottom: 50px">
     <img src="https://i.ibb.co/7GZtVLs/Screenshot-from-2023-05-22-03-06-16.png" border="0" style="margin-bottom: 50px">
@@ -27,7 +27,7 @@ Eduford is a communication portal between college students and Eduford Universit
     <img src="https://i.ibb.co/vdjGjg9/Screenshot-from-2023-05-22-11-58-10.png" border="0" style="margin-top: 20px">
     <img src="https://i.ibb.co/K6jQFxX/Screenshot-from-2023-05-22-11-58-39.png" border="0" style="margin-top: 20px">
     <img src="https://i.ibb.co/Mfs96hb/Screenshot-from-2023-05-22-11-58-59.png" border="0" style="margin-top: 20px">
-</div>
+</div> -->
 
 
 ## Technologies
