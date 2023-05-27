@@ -1,7 +1,7 @@
 # Eduford
 
 ## Description
-Eduford is a communication portal between college students and Eduford University. It provides all the necessary information for any student who might be interested in pursuing a course there, be it online or in person. This is a Front End website that I created individually to showcase my skills as well as apply new better coding practices that I learned recently. It is mobile responsive.
+Eduford is an academic website for Eduford University students and those who may be interested in joining. This is a front end personal project.
 
 <br><br>
 <img src="https://i.ibb.co/xXs335B/Screenshot-from-2023-05-22-02-57-39.png" border="0">
