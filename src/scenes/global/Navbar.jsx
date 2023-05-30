@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import { GiHamburgerMenu } from 'react-icons/gi'
 
-import { navMenuData } from '../constants/data'
+import { navMenuData } from '../../constants/data'
 
 const Navbar = () => (
     <nav id='navmenu' className="navbar pt-5 position-absolute w-100">

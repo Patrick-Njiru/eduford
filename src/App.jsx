@@ -1,8 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-import { About, Blog, Contact, Courses, Home } from './containers'
-import { Footer, Navbar } from './components';
+import { About, Blog, Contact, Courses, Home, Navbar, Footer } from './scenes'
 
 const App = () =>(
     <div>

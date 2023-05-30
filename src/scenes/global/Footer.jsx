@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaArrowUp } from 'react-icons/fa'
 
-import { footerSectionData } from '../constants/data'
+import { footerSectionData } from '../../constants/data'
 
 const Footer = () => (
     <div className='text-center p-5 pb-3 w-75 mx-auto'> 
